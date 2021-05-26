@@ -35,7 +35,7 @@ print(password)
 #cryptology is a major aspect in coding in that it allows moving of sensitive
 #data through plain docucemts, server scripts and other data manipulation,
 #schemes without comprising the sensitivity of the data
-#follow more @Olisehenesis on github
+#follow more @Olisehenesis1 on github
 #olisehgenesis on twitter
 #+256700643612
 
